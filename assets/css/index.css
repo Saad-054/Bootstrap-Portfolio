@@ -1,0 +1,29 @@
+/* Styling for the hero section */
+#hero {
+  background-color: #f5f5f5;
+  color: #333333;
+}
+
+/* Styling for the about section */
+#about {
+  background-color: #bbaa48;
+  color: #da1717;
+}
+
+/* Styling for the work section */
+#work {
+  background-color: #00bfff;
+  color: #ffffff;
+}
+
+/* Styling for the skills section */
+#skills {
+  background-color: #ff69b4;
+  color: #ffffff;
+}
+
+/* Styling for the contact section */
+#contact {
+  background-color: #8fbc8f;
+  color: #ffffff;
+}git pull
